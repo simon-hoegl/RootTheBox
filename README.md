@@ -1,6 +1,8 @@
 # >\_ Root the Campus MOD
-![example](static/images/rtb2.png?raw=true)
+![rtc_logo](static/images/rtb2.png?raw=true)
 
+Following challenges were be used:
+[RootTheCampus-Challenges](https://github.com/simon-hoegl/RootTheCampus-Challenges/blob/main/RTC%20CTF_game_config.xml) ([RTC CTF_game_config.xml](https://github.com/simon-hoegl/RootTheCampus-Challenges/blob/main/RTC%20CTF_game_config.xml))
 
 # >\_ Root the Box
 
