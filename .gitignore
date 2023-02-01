@@ -14,11 +14,12 @@ files/avatars/upload/*
 files/story/*
 files/icons/*-*
 files/shares/*-*
-files/source_code_market/*-*
-files/game_materials/*
 files/flag_attachments/*
-files/*.db
-files/*.cfg
+files/botnet.db
+#files/source_code_market/*-*
+#files/game_materials/*
+#files/*.db
+#files/*.cfg
 
 #Alembic
 alembic/alembic.ini
@@ -44,10 +45,10 @@ develop-eggs
 *.key
 
 # XML exports
-*.xml
+#*.xml
 
 # SQLite3 databases
-*.db
+#*.db
 *.db-journal
 
 # Screen files
